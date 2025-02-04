@@ -33,15 +33,5 @@ I'm a passionate Engineer with expertise in **AWS, Azure, GCP, Kubernetes, Terra
 [![GCP Certified](https://img.shields.io/badge/GCP-Certified-yellow)](https://www.credly.com) 
 [![Kubernetes Certified](https://img.shields.io/badge/Kubernetes-Certified%20CKA%20%7C%20CKAD%20%7C%20CKS-blue)](https://www.cncf.io/certification/)
 
-## 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jteye/)
-
-## 💡 What I’m Working On:
-🔹 Optimizing cloud-native architectures 🌍
-🔹 Automating infrastructure deployments 🚀
-🔹 Sharing knowledge through community events 🎤
-
-💬 **Let's talk about all things cloud & DevOps!**
-
 ![temp](https://github.com/user-attachments/assets/8b84b6d5-ac66-490e-bd7b-ca92b72ddc1b)
 
