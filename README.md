@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 I'm a passionate Engineer with expertise in **AWS, Azure, GCP, Kubernetes, Terraform, and automation**. I specialize in building scalable, secure, and cost-efficient cloud solutions that streamline deployments and enhance reliability.
 
 ## 🔧 Tech Stack & Skills:
-- **Cloud Platforms**: ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws) | ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure) | ![GCP](https://img.shields.io/badge/GCP-Cloud-yellow?logo=google-cloud)
 - **Cloud Platforms**: AWS ☁️ | Azure ☁️ | GCP ☁️
 - **Infrastructure as Code**: Terraform | CloudFormation
 - **Containerization & Orchestration**: Docker 🐳 | Kubernetes ☸️
@@ -43,3 +42,7 @@ I'm a passionate Engineer with expertise in **AWS, Azure, GCP, Kubernetes, Terra
 🔹 Sharing knowledge through community events 🎤
 
 💬 **Let's talk about all things cloud & DevOps!**
+![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)
+![Azure](https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg)
+![GCP](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg)
+![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg)
