@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 🚀 **Cloud | DevOps | Kubernetes | Infrastructure Automation**
 
-I'm a passionate Cloud & DevOps Engineer with expertise in **AWS, Azure, Kubernetes, Terraform, and automation**. I specialize in building scalable, secure, and cost-efficient cloud solutions that streamline deployments and enhance reliability.
+I'm a passionate Engineer with expertise in **AWS, Azure, GCP, Kubernetes, Terraform, and automation**. I specialize in building scalable, secure, and cost-efficient cloud solutions that streamline deployments and enhance reliability.
 
 ## 🔧 Tech Stack & Skills:
 - **Cloud Platforms**: AWS ☁️ | Azure ☁️ | GCP ☁️
