@@ -23,7 +23,7 @@ I'm a passionate Engineer with expertise in **AWS, Azure, GCP, Kubernetes, Terra
 - **Infrastructure as Code**: Terraform | CloudFormation
 - **Containerization & Orchestration**: Docker 🐳 | Kubernetes ☸️
 - **Automation & Scripting**: Python 🐍 | Golang | Bash
-- **CI/CD Pipelines**: GitHub Actions | GitLab CI/CD | Jenkins ⚙️
+- **CI/CD Pipelines**: GitHub Actions | GitLab CI/CD | AzureDevOps ⚙️
 - **Monitoring & Logging**: Prometheus | Grafana | ELK Stack
 - **Security & Compliance**: IAM | Security Best Practices
 
